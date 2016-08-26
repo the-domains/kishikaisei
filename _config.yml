@@ -16,7 +16,11 @@ color:
   brandStrength: 1
   lightness: 1
   brandColors:
-    - '#ED0677'
+    - '#FEFF7F'
+    - '#371F17'
+    - '#FFD07E'
+    - '#714B3F'
+    - '#ED9D7A'
   rhythmicContrast: 1
-layout_spectrum: 0
+layout_spectrum: 0.5197133
 name: kishikaisei
