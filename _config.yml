@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.8709677
 color:
   saturation: 1
   brandStrength: 1
@@ -21,6 +22,5 @@ color:
     - '#714B3F'
     - '#ED9D7A'
   lightness: 1
-typography_spectrum: 0.8709677
-layout_spectrum: 0.5573477
+layout_spectrum: 0.2777778
 name: kishikaisei
