@@ -21,6 +21,6 @@ color:
     - '#714B3F'
     - '#ED9D7A'
   lightness: 1
-typography_spectrum: 0
-layout_spectrum: 1
+typography_spectrum: 0.8709677
+layout_spectrum: 0.5573477
 name: kishikaisei
