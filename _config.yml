@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0
 color:
   saturation: 1
   brandStrength: 0.6091301
   lightness: 1
-  rhythmicContrast: 1
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-typography_spectrum: 0
+    - '#D1E1F0'
+    - '#86D3FF'
+    - '#151922'
+    - '#5BA8D4'
+    - '#466D6C'
+  rhythmicContrast: 1
+layout_spectrum: 1
 name: kishikaisei
