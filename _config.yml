@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0
 color:
   saturation: 1
   brandStrength: 1
@@ -17,6 +18,5 @@ color:
   brandColors:
     - '#ED0677'
   rhythmicContrast: 1
-typography_spectrum: 0
-layout_spectrum: 1
+layout_spectrum: 0
 name: kishikaisei
